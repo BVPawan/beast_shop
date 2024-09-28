@@ -1,0 +1,35 @@
+.new-collections{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5px;
+   margin-bottom: 100px;
+   background-color: black;
+   color: #ffffff;
+}
+.new-collections h1{
+    color: #ffffff;
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.new-collections hr {
+    width: 150px;
+    height: 4px;
+    border-radius: 10px;
+    background: #ffffff;
+    color: #ffffff;
+  }
+.collections{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 60px auto;
+    gap: 30px;
+    max-width: 1280px;
+    color: #ffffff;
+}
+body{ color: #ffffff;}
+.item-price-new{
+    color: #ffffff;
+}
